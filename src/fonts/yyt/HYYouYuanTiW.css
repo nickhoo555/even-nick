@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "HYYouYuanTiW";
+    src: url("HYYouYuanTiW.eot"); /* IE9 */
+    src: url("HYYouYuanTiW.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("HYYouYuanTiW.woff") format("woff"), /* chrome、firefox */
+    url("HYYouYuanTiW.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("HYYouYuanTiW.svg#HYYouYuanTiW") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

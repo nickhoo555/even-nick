@@ -1,0 +1,21 @@
+// ==============================
+// Custom style
+// ==============================
+// You can override the variables in _variables.scss to customize the style
+
+// Font family: yyt
+@font-face {
+    font-family: 'yyt';
+    src: url('../fonts/yyt/HYYouYuanTiW.eot');
+    src: local('yyt'), url('../fonts/yyt/HYYouYuanTiW.eot?#iefix') format('embedded-opentype'),
+    // url('../fonts/yyt/HYYouYuanTiW.woff2') format('woff2'),
+    url('../fonts/yyt/HYYouYuanTiW.woff') format('woff'),
+    url('../fonts/yyt/HYYouYuanTiW.ttf') format('truetype'),
+    url('../fonts/yyt/HYYouYuanTiW.svg#apple-chancery') format('svg');
+    font-weight: lighter;
+    font-style: normal;
+  }
+
+// @font-face {
+//   font-family: 'yyt';
+//   src: url("../fonts/yyt/HYYouYuanTiW.ttf"); }
