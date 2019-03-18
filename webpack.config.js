@@ -61,10 +61,10 @@ module.exports = {
         test: /iconfont\.(woff|woff2|eot|ttf|otf|svg)$/,
         use: ['file-loader?name=[path][name].[ext]?hash=[hash:7]']
       },
-      {
-        test: /apple-chancery-webfont\.(woff|woff2|eot|ttf|otf|svg)$/,
-        use: ['file-loader?name=[path][name].[ext]']
-      },
+      // {
+      //   test: /apple-chancery-webfont\.(woff|woff2|eot|ttf|otf|svg)$/,
+      //   use: ['file-loader?name=[path][name].[ext]']
+      // },
       {
         test: /HYYouYuanTiW\.(woff|eot|ttf|otf|svg)$/,
         use: ['file-loader?name=[path][name].[ext]']
