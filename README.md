@@ -14,7 +14,7 @@
 
 参照 `src/css/_variables.scss`，自定义 `src/css/_custom/_custom.scss`
 ```scss
-
+// 已通过 fontmin 精简字体文件
 // Font family: yyt
 @font-face {
     font-family: 'yyt';
